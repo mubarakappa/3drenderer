@@ -1,0 +1,15 @@
+﻿  3Drenderer.cpp
+C:\Users\Mubarak\source\repos\3Drenderer\3Drenderer\3Drenderer.cpp(140,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Mubarak\source\repos\3Drenderer\3Drenderer\3Drenderer.cpp(199,77): warning C4244: 'argument': conversion from 'float' to 'short', possible loss of data
+C:\Users\Mubarak\source\repos\3Drenderer\3Drenderer\3Drenderer.cpp(199,56): warning C4244: 'argument': conversion from 'float' to 'short', possible loss of data
+C:\Users\Mubarak\source\repos\3Drenderer\3Drenderer\3Drenderer.cpp(200,51): warning C4244: 'argument': conversion from 'float' to 'short', possible loss of data
+C:\Users\Mubarak\source\repos\3Drenderer\3Drenderer\3Drenderer.cpp(200,30): warning C4244: 'argument': conversion from 'float' to 'short', possible loss of data
+C:\Users\Mubarak\source\repos\3Drenderer\3Drenderer\3Drenderer.cpp(201,51): warning C4244: 'argument': conversion from 'float' to 'short', possible loss of data
+C:\Users\Mubarak\source\repos\3Drenderer\3Drenderer\3Drenderer.cpp(201,30): warning C4244: 'argument': conversion from 'float' to 'short', possible loss of data
+C:\Users\Mubarak\source\repos\3Drenderer\3Drenderer\3Drenderer.cpp(199,26): warning C4309: 'argument': truncation of constant value
+C:\Users\Mubarak\source\repos\3Drenderer\3Drenderer\3Drenderer.cpp(205,19): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 282 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  3Drenderer.vcxproj -> C:\Users\Mubarak\source\repos\3Drenderer\Release\3Drenderer.exe
